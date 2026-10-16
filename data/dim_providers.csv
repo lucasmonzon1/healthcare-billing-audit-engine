@@ -1,0 +1,11 @@
+provider_id,provider_name,provider_type,tax_id,onboarding_date
+PRV-001,Hospital Alemán,Hospital,30-54678901-9,2021-01-15
+PRV-002,Sanatorio Las Lomas,Hospital,30-61234567-8,2021-03-20
+PRV-003,Clínica Bessone,Clinic,30-70123456-1,2021-05-10
+PRV-004,Laboratorio Rossi,Diagnostic Lab,30-58901234-5,2021-06-01
+PRV-005,Sanatorio Mater Dei,Hospital,30-52345678-3,2021-08-14
+PRV-006,Centro Médico San Jerónimo,Clinic,30-67890123-4,2022-02-11
+PRV-007,Diagnóstico Maipú,Diagnostic Lab,30-63456789-2,2022-04-19
+PRV-008,Hospital Británico,Hospital,30-50123456-7,2022-07-25
+PRV-009,Clínica Modelo Morón,Clinic,30-71234567-0,2022-09-05
+PRV-010,Instituto Cardiovascular Buenos Aires,Hospital,30-59012345-6,2023-01-10

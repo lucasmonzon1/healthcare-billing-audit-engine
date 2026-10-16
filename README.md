@@ -38,6 +38,7 @@ The interactive BI layer was designed and published in **Tableau Public**, visua
 ---
 
 ## 📁 Repository Structure
+
 ├── data/
 │   ├── dim_providers.csv                # Master vendor data
 │   ├── fact_claims_invoiced.csv         # Invoiced claims transactions
